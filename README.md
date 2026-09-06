@@ -4,7 +4,7 @@
 
 ☁️ I'm passionate about **cloud computing**, **AI agents and automations**, and everything that involves modern technologies.
 
-📂 For now, you'll mostly find **university projects** here, but I'm always learning and building **my own projects** whenever I can.
+📂 Always learning and building **my own projects** whenever I can.
 
 ---
 
